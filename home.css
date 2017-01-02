@@ -1,0 +1,137 @@
+<link href="https://fonts.googleapis.com/css?family=Clicker+Script|Engagement|Roboto+Slab:700|Romanesco|Tinos:700i" rel="stylesheet">
+* {
+    color: #000;
+}
+.header {
+    background-image: url(/images/Website%20pic.jpg);
+    background-size: cover;
+    width: auto;
+    height: auto;
+    padding: 18.5%;
+    margin: -1.9%;
+}
+h2 {
+    text-align: left;
+    font-family: 'Engagement', cursive;
+    font-size: 3em;
+    position:absolute;
+    margin: -3em;
+}
+h1 {
+    text-align: right;
+    font-family: 'Homemade Apple', cursive;
+    font-size: 4.5em;
+    margin-bottom: -11%;
+    text-align: right;
+    
+}
+ul {
+    list-style-type: none;
+    float: auto;
+    width: auto ;
+    height: inherit;
+    display: block;
+    padding: 10px;
+    overflow: hidden;
+    color: #C0D3F2;
+    padding: inherit;
+    
+}
+li {
+    display: inline-block;
+    padding: 25px;
+    overflow: hidden;
+    color: #fdfd96;
+    
+}
+li a:hover:not(.active) {
+    background-color: #F0D6BD;
+    padding: inherit;
+}
+ .active {
+    background-color: #F0D6BD;
+    padding: inherit;*/
+}
+nav {
+    color: #C0D3F2;
+    text-align: center;
+    align-content: center;
+    /*border-bottom: solid 30px #EE7ECD;*/
+}
+nav, li, ul, a {
+    background: #006AB2;
+}
+.nav{
+    margin: -1% -20%;
+    page-break-after: always;
+    padding: -2% -10%;
+}
+
+body {
+ background-color:#C0D3F2;
+}
+main {
+    background: #ADB2BE;
+    z-index: 2;
+    font-family:'Tinos', serif;
+    font-size: 125%;
+    letter-spacing: inherit;
+    word-spacing: inherit;
+    color: #000;
+    clear: left;
+    margin: 10% 32.5%  10% 5%;
+    padding: 15px;
+}
+p {
+    text-align: center
+}
+div.video {
+    text-align: center
+}
+table {
+    background-color: #000;
+    table-layout: fixed;
+    
+}
+aside, table {
+    clear: right;
+    
+}
+#sidebar {
+    position: absolute;
+    bottom: -445.9px;
+    right: 4%;
+    width: 23%;
+    background: #0082DB;
+    z-index: 10;
+    vertical-align: middle;
+    color: white
+}
+.featpost{
+    background-color: #000;
+    position: relative;
+    width: 150px;
+    height: 100px;
+    border: none;
+}
+th, td {
+    background-color: #000;
+    border:none;
+}
+tr {
+    border: solid medium #0082DB;
+}
+.pic {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    height: 60px;
+    width: 200px;
+}
+/* font codes 
+font-family: 'Romanesco', cursive;
+font-family: 'Tinos', serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Engagement', cursive;
+font-family: 'Clicker Script', cursive;
+*/
