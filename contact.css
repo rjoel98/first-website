@@ -82,78 +82,9 @@ body {
     background-size: cover;
     
 }
-.traincount {
-    position: absolute;
-    top: 500px;
-    right: 2%;
-    width: 450px;
-    vertical-align: middle;
-    color: black;
-    margin-top: 5px;
-}
-main {
-    background: white /*#ADB2BE*/;
-    z-index: 2;
-    font-family:'Tinos', serif;
-    font-size: 125%;
-    letter-spacing: inherit;
-    word-spacing: inherit;
-    color: #000;
-    clear: left;
-    margin: 5% 32.5%  10% 5%;
-    padding: 15px;
-}
-p {
+form {
+    background-color: rgba(192, 202, 218, .9);
+    background-size: contain;
+    margin: 200px;
     text-align: center
 }
-div.video {
-    text-align: center
-}
-table {
-    background-color: #000;
-    table-layout: fixed;
-    
-}
-aside, table {
-    clear: right;
-    
-}
-#sidebar {
-    position: absolute;
-    bottom: -902px;
-    right: 10%;
-    width: 23%;
-    height: 147%;
-    background: #006AB2/*#0082DB*/;
-    z-index: 10;
-    vertical-align: middle;
-    color: white
-}
-.featpost{
-    background-color: #000;
-    position: relative;
-    width: 150px;
-    height: 100px;
-    border: none;
-}
-th, td {
-    background-color: #000;
-    border:none;
-}
-tr {
-    border: solid medium #0082DB;
-}
-.pic {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
-    height: 60px;
-    width: 200px;
-}
-/* font codes 
-font-family: 'Romanesco', cursive;
-font-family: 'Tinos', serif;
-font-family: 'Roboto Slab', serif;
-font-family: 'Engagement', cursive;
-font-family: 'Clicker Script', cursive;
-*/
